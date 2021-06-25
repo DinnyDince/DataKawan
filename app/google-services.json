@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1045233592343",
+    "project_id": "datakawandinny",
+    "storage_bucket": "datakawandinny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045233592343:android:88dcd80bfc9f9e94c8d452",
+        "android_client_info": {
+          "package_name": "com.dinny.datakawandinny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045233592343-vq8erhjbg5fu4u64l4rdnnb2hc2ljfpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinny.datakawandinny",
+            "certificate_hash": "281cc9d6525cc0002706101880096050fa8a0bac"
+          }
+        },
+        {
+          "client_id": "1045233592343-b3me157tk3urjt4ogq5ikk78l5sgnkgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZXV6lkQS1qrJh5oT9POm28vyWTLwAQoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045233592343-b3me157tk3urjt4ogq5ikk78l5sgnkgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
